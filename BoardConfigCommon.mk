@@ -19,6 +19,7 @@
 # included in a build is to use PRODUCT_PACKAGES in a product
 # definition file).
 #
+FULL_LINARO := true
 
 # inherit from common msm8960
 -include device/samsung/msm8960-common/BoardConfigCommon.mk
